@@ -1,0 +1,1 @@
+This here is to document my learning process, of algorithm's and data structures.
